@@ -1,0 +1,9 @@
+# Runtime database and local secrets
+*.db
+*.db-shm
+*.db-wal
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
